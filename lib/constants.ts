@@ -1,7 +1,7 @@
 export const SITE_NAME = 'Next.js 16 & Full-Stack Developer Hub';
 export const SITE_DESCRIPTION = 'A comprehensive resource for Next.js 16, React 19, TypeScript, and full-stack development. Learn production-grade patterns, best practices, and modern development techniques.';
 export const BASE_PATH = process.env.NEXT_PUBLIC_BASE_PATH || '';
-export const SITE_URL = process.env.SITE_URL || 'https://example.invalid';
+export const SITE_URL = process.env.SITE_URL || 'https://abdulzakirkhan.github.io/nextjs-devhub';
 export const AUTHOR_NAME = process.env.AUTHOR_NAME || 'Site owner (configure AUTHOR_NAME)';
 export const AUTHOR_BIO = process.env.AUTHOR_BIO || 'Add the author biography in the deployment environment before publishing.';
 export const AUTHOR_EMAIL = process.env.CONTACT_EMAIL || '';
